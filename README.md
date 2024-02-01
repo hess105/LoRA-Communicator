@@ -1,5 +1,7 @@
 # LoRa SX127x and Pico Communicator
 
+### This project is not currently functioning
+
 ## Overview
 
 This project implements a LoRa communication system using the SX127x module and Raspberry Pi Pico microcontroller. The project enables long-range, low-power communication between devices, making it suitable for various IoT and sensor network applications but in this case it is used as a text-based walkie talkie.
