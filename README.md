@@ -33,16 +33,13 @@ This project implements a LoRa communication system using the SX127x module and 
 
 Feel free to contribute to the project by opening issues, suggesting enhancements, or submitting pull requests. Your feedback and collaboration are highly appreciated.
 
-## License
-
-This project is licensed under the [MIT License].
-
 ## Acknowledgements
 
 - Thanks for the wonderful librarys:
    - rdagger @ https://github.com/rdagger/micropython-ili9341
    - msglab @ https://github.com/msglab/msglab/tree/main/LoRA-MSG
    - wybiral @ https://github.com/wybiral/micropython-lora
+   - Purdue Univeristy Faculty and Facilities
 
 ## Contact
 
