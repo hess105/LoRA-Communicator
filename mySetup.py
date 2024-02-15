@@ -1,4 +1,4 @@
-from ili9341 import Display
+from libs.ili9341 import Display
 from machine import Pin, SPI
 
 TFT_CLK_PIN = const(18)
